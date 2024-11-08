@@ -63,7 +63,7 @@ Um projeto para criar uma página de preenchimento para cadastro de evento com l
 < box-shadow >: Adiciona uma sombra ao redor de um elemento, permitindo que ele se destaque.
  
 ## Resultado do Projeto
-![Resultado do projeto final](_img/resultado%20final.png)
+![Resultado Final do Projeto](./_img/Resultado_Final.png)
  
 ## Referências
  
